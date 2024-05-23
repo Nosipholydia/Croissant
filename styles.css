@@ -1,9 +1,25 @@
 body {
-  background: blueviolet;
+  background: aqua;
 }
+
 h1 {
   text-align: center;
 }
+
 p {
   text-align: center;
+}
+a.footer {
+  text-align: center;
+  color: purple;
+}
+footer {
+  text-align: center;
+  margin: 10px;
+}
+.images {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+  border: 10px;
 }
